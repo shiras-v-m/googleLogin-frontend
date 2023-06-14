@@ -114,3 +114,14 @@ cursor: pointer;
     color: white;
     background: -webkit-linear-gradient(bottom,#7579ff,#b224ef);
 }
+
+/* responsive */
+@media(max-width:530px){
+    .frame{
+        padding:60px 60px ;
+        text-align: center;
+    }
+    .googleBtn{
+        padding-left: 43px;
+    }
+}
